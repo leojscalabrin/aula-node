@@ -4,4 +4,4 @@ function testar() {
 
 // testar()
 
-module.exports = testar
+export default testar

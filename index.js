@@ -1,3 +1,6 @@
-const testar = require('./testar')
+import { write, read } from "./arquivos.js";
+import chalk from 'chalk';
 
-testar()
+// write("teste.txt", "testando again");
+// console.log(chalk.blue('teste'))
+console.log(chalk.bgGreen.blue(read('teste.txt')))

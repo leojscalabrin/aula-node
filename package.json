@@ -1,0 +1,24 @@
+{
+  "name": "aula-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leojscalabrin/aula-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leojscalabrin/aula-node/issues"
+  },
+  "homepage": "https://github.com/leojscalabrin/aula-node#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "nodemon": "^2.0.19"
+  }
+}
